@@ -17,7 +17,7 @@
     "username": "sierrapi",
     "password": "9CGYaVaomTwMfu4Rdpy9Yn3ZLXWbC727",
     "database": "mi_bienestar_711",
-    "host": "oregon-postgres.render.com",
+    "host": "dpg-d2k742u3jp1c73ftesl0-a.oregon-postgres.render.com/mi_bienestar_711",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
